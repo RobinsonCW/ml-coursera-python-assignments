@@ -108,3 +108,9 @@ venv.bak/
 *.pkl
 *-solved.ipynb
 
+# VS Code
+.vscode/
+
+
+# PyCharm
+.idea/
